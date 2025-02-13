@@ -5,10 +5,10 @@
 Certifications:
 
 - [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
-  - 6 course series
+  - 6 courses
   - around 134 hours
 - [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-  - 12 course series
+  - 12 courses
   - around 177 hours 
 
 <!---
